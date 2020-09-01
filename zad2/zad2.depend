@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1591578601 source:d:\pulpit\szachy\zad2\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
